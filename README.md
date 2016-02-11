@@ -38,6 +38,8 @@ _000 TILs and counting..._
 
 ### Python
 
+- [Create packages for Anaconda Cloud](python/anaconda_cloud_build.md)
+
 ### Vim
 
 ## About
