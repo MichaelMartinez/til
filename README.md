@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. Saw this from a fella online and thought it was a good
 idea.
 
-_002 TILs and counting..._
+_003 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _002 TILs and counting..._
 ### Docker
 
 - [Start Docker on OSX](docker/docker-up.md)
+- [Clean up old containers](docker/cleanup-containers.md)
 
 ### Git
 
