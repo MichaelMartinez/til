@@ -28,6 +28,8 @@ _001 TILs and counting..._
 
 ### Docker
 
+- [Start Docker on OSX](docker/docker-up.md)
+
 ### Git
 
 ### Go
