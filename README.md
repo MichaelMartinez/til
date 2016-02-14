@@ -30,6 +30,7 @@ _005 TILs and counting..._
 
 - [Start Docker on OSX](docker/docker-up.md)
 - [Clean up old containers](docker/cleanup-containers.md)
+- [Make simple Docker images from containers](docker/simple-docker-images.md)
 
 ### Git
 
