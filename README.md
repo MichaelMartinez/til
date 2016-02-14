@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. Saw this from a fella online and thought it was a good
 idea.
 
-_004 TILs and counting..._
+_005 TILs and counting..._
 
 ---
 
@@ -38,7 +38,7 @@ _004 TILs and counting..._
 ### Linux
 
 - [Run Python script in background](linux/python-in-background.md)
-
+- [Secure copy: Remote to Local](linux/secure-copy-rtol.md)
 ### Mac
 
 ### Python
