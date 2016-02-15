@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. Saw this from a fella online and thought it was a good
 idea.
 
-_006 TILs and counting..._
+_007 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _006 TILs and counting..._
 - [Start Docker on OSX](docker/docker-up.md)
 - [Clean up old containers](docker/cleanup-containers.md)
 - [Make simple Docker images from containers](docker/simple-docker-images.md)
+- [Remove dangling images](docker/remove-dangling.md)
 
 ### Git
 
